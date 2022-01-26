@@ -7,7 +7,7 @@ A small python program that converts binary and decimal
 ### How to run the script
 > python decimalTObinary.py
 ### Screenshots showing the sample use of the script
-![Screenshot (193)](https://user-images.githubusercontent.com/85709371/151161636-46410875-9f82-441b-8182-4a84798d5b32.png)![Screenshot ](https://user-images.githubusercontent.com/85709371/151161841-8ab8dcaa-d3b7-467c-8363-601b57328798.png)
+![Screenshot (193)](https://user-images.githubusercontent.com/85709371/151161636-46410875-9f82-441b-8182-4a84798d5b32.png) ![Screenshot ](https://user-images.githubusercontent.com/85709371/151161841-8ab8dcaa-d3b7-467c-8363-601b57328798.png)
 
 
 
